@@ -1,3 +1,34 @@
+/* body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#name-navbar {
+    margin-left: 150px;
+}
+
+#top-navbar div {
+    margin-left: 40%;
+    flex-grow: 0;
+}
+
+
 .background-image {
     background: url('../images/workBG.svg');
+} */
+
+#top-navbar {
+    background-color: #3e3c3c;
 }
+
+#hamburger-btn {
+    color: white;
+    font-size: 30px;
+}
+
+.crete-font {
+    font-family: 'Crete Round', serif;
+}
+  
