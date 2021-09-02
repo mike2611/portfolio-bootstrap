@@ -20,15 +20,53 @@
 } */
 
 #top-navbar {
-    background-color: #3e3c3c;
+  background-color: #3e3c3c;
 }
 
 #hamburger-btn {
-    color: white;
-    font-size: 30px;
+  color: white;
+  font-size: 30px;
+}
+
+#about-me {
+  background: #1c1a19 url(../images/backImage.png) right bottom no-repeat;
+  background-size: contain;
+  height: 90vh;
+  align-items: center;
+}
+
+.icon-size {
+  font-size: 20px;
+}
+
+#about-me h1 {
+  color: #f55800;
+  font-size: 56px;
+  line-height: 114%;
+  letter-spacing: 0.37px;
+}
+
+#about-me h2 {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 133%;
+}
+
+#about-me p {
+  font-size: 16px;
+  line-height: 150%;
+  margin-bottom: 10px;
 }
 
 .crete-font {
-    font-family: 'Crete Round', serif;
+  font-family: 'Crete Round', serif;
+}
+
+.roboto-font {
+  font-family: 'Roboto', sans-serif;
+}
+
+.poppins-font {
+  font-family: 'Poppins', sans-serif;
 }
   
