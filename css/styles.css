@@ -28,10 +28,10 @@
   font-size: 30px;
 }
 
-#about-me {
+#head-line {
   background: #1c1a19 url(../images/backImage.png) right bottom no-repeat;
   background-size: contain;
-  height: 90vh;
+  height: 100vh;
   align-items: center;
 }
 
@@ -39,20 +39,20 @@
   font-size: 20px;
 }
 
-#about-me h1 {
+#head-line h1 {
   color: #f55800;
   font-size: 56px;
   line-height: 114%;
   letter-spacing: 0.37px;
 }
 
-#about-me h2 {
+#head-line h2 {
   font-weight: bold;
   font-size: 24px;
   line-height: 133%;
 }
 
-#about-me p {
+#head-line p {
   font-size: 16px;
   line-height: 150%;
   margin-bottom: 10px;
