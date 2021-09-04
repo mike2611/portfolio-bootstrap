@@ -1,0 +1,109 @@
+
+#top-navbar {
+  background-color: #3e3c3c;
+}
+
+#hamburger-btn {
+  color: white;
+  font-size: 30px;
+}
+
+#head-line {
+  background: #1c1a19 url(../images/backImage.png) right bottom no-repeat;
+  background-size: contain;
+  height: 100vh;
+  align-items: center;
+}
+
+.icon-size {
+  font-size: 23px;
+}
+
+#head-line h1 {
+  color: #f55800;
+  font-size: 56px;
+  line-height: 114%;
+  letter-spacing: 0.37px;
+}
+
+#head-line h2 {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 133%;
+}
+
+#head-line p {
+  font-size: 16px;
+  line-height: 150%;
+  margin-bottom: 10px;
+}
+
+#card-image {
+  width: 80%;
+}
+
+.work-cards {
+  height: 400px;
+  background: url(../images/workBG.svg) no-repeat;
+  background-size: cover;
+}
+
+#about-me {
+  background: #1c1a19 url(../images/desktopMeImage.svg) right 200px no-repeat;
+  background-size: 42%;
+}
+
+#about-me h1 {
+  font-size: 72px;
+  line-height: 122%;
+  color: #ff6b00;
+}
+
+#about-me p {
+  font-size: 18px;
+  line-height: 150%;
+}
+
+#about-me hr {
+  margin-top: 400px;
+}
+
+#about-me table {
+  font-size: 25px;
+  line-height: 194%;
+}
+
+#area-contact {
+  background-color: #fbf8f7;
+  height: 150px;
+}
+
+.crete-font {
+  font-family: 'Crete Round', serif;
+}
+
+.roboto-font {
+  font-family: 'Roboto', sans-serif;
+}
+
+.poppins-font {
+  font-family: 'Poppins', sans-serif;
+}
+
+.orange-btn {
+  background-color: #ff6800;
+  color: white;
+  font-weight: bold;
+  border: none;
+  transition: background-color 1s ease-in-out, color 1s ease-in-out;
+}
+
+.orange-btn:hover {
+  background-color: #fff5e1;
+  color: #f55800;
+  border: 1px solid #f55800;
+  cursor: pointer;
+}
+
+
+  
