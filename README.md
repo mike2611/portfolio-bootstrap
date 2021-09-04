@@ -9,7 +9,7 @@
 ![screenshot](images/portfolioImage.png)
 
 ## Live Demo
-https://mike2611.github.io/portfolio/
+https://mike2611.github.io/portfolio-bootstrap/
  
 ## Built With
 
